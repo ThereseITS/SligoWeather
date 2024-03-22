@@ -1,7 +1,8 @@
 ﻿using sligoRain;
 //
 // This version uses a class for rain data, and reads, parses, validates and creates a list of rain data objects from the file.
-// A report generator class is used to generate reports on the data.This might work with other positive metrics like rainfall e.g.% cloud cover.
+// A report generator class is used to generate reports on the data.
+// Could the functionality of this class work with other positive metrics like rainfall e.g.% cloud cover?
 // Which alterations would be needed to report on continuous data, such as temperature?
 //
 namespace SligoWeather
